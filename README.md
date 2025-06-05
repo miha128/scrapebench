@@ -1,8 +1,15 @@
 # scrapebench
 scrape from geekbench (python edition)
+
 geekbench result parser i wrote because i needed it for... educational purposes (and a pretty json list too!!) (and also because the only scraper i found was ruby based and i hate ruby)
+
 configurable with another baseurl if you're really into that and are trying to host ur own ig
+
 wait i forgot to write usage n shit hold on 
+
+oh yeah you need to install requests and bs4 
+
+pip install beautifulsoup4 requests
 
 | argument        | descritpion                                                                                                                                                                                                                    |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
